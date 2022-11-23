@@ -9,3 +9,5 @@ You can create task, show all task, show completed task, pending tasks, you can 
 -   Run in your terminal the **app.js** with node or nodemon (`node app.js` - `nodemon app`)
 
 # Screnshots
+
+![App running in terminal](https://i.ibb.co/wgcKK0F/TODO.png)
